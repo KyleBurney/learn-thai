@@ -1,121 +1,151 @@
 [
     {
-        "thai": "What did you come to Thailand to study?",
-        "english": "jeem maa riian à-rai thîi muueang-thai khá.",
+        "english": "What did you come to Thailand to study?",
+        "thai": "jeem maa riian à-rai thîi muueang-thai khá.",
         "filename": "",
         "dateAdded": ""
     },
     {
-        "thai": "I came to study Thai at Chiang Mai University.",
-        "english": "phǒm maa riian phaa-sǎa-thai thîi má-hǎa-wít-thá-yaa-lai chiiang mài khráp.",
+        "english": "I came to study Thai at Chiang Mai University.",
+        "thai": "phǒm maa riian phaa-sǎa-thai thîi má-hǎa-wít-thá-yaa-lai chiiang mài khráp.",
         "filename": "",
         "dateAdded": ""
     },
     {
-        "thai": "You don't have to go to the University to study. I can teach you. This is a spoon. This is a fork. This is a glass.",
-        "english": "phîi jeem mâi dtâwng bpai riian thîi má-hǎa-wít-thá-yaa-lai ràawk khâ. nǔu sǎawn hâi dâai. nîi khuue cháawn. nîi khuue sâawm. nîi khuue gâaeo.",
+        "english": "You don't have to go to the University to study. I can teach you. This is a spoon. This is a fork. This is a glass.",
+        "thai": "phîi jeem mâi dtâwng bpai riian thîi má-hǎa-wít-thá-yaa-lai ràawk khâ. nǔu sǎawn hâi dâai. nîi khuue cháawn. nîi khuue sâawm. nîi khuue gâaeo.",
         "filename": "",
         "dateAdded": ""
     },
     {
-        "thai": "That's enough, child.",
-        "english": "phaaw láaeo lûuk.",
+        "english": "That's enough, child.",
+        "thai": "phaaw láaeo lûuk.",
         "filename": "",
         "dateAdded": ""
     },
     {
-        "thai": "James, tomorrow I'll take you to the university. I want you to meet one professor.",
-        "english": "jeem phrûng-níi rao jà phaa jeem bpai má-hǎa-wít-thá-yaa-lai ná. yàak hâi jeem phóp gàp aa-jaan thâan nùeng.",
+        "english": "James, tomorrow I'll take you to the university. I want you to meet one professor.",
+        "thai": "jeem phrûng-níi rao jà phaa jeem bpai má-hǎa-wít-thá-yaa-lai ná. yàak hâi jeem phóp gàp aa-jaan thâan nùeng.",
         "filename": "",
         "dateAdded": ""
     },
     {
-        "thai": "Which professor?",
-        "english": "aa-jaan khon nǎi khráp.",
+        "english": "Which professor?",
+        "thai": "aa-jaan khon nǎi khráp.",
         "filename": "",
         "dateAdded": ""
     },
     {
-        "thai": "Professor Somsi Triphet. She's your Thai language professor.",
-        "english": "aa-jaan sǒm-sǐi dtrii-phét khâ. thâan bpen aa-jaan phaa-sǎa-thai khǎawng jeem.",
+        "english": "Great. What time will we go?",
+        "thai": "dii looei khráp. phûuak-rao jà bpai gan gìi moong khráp.",
         "filename": "",
         "dateAdded": ""
     },
     {
-        "thai": "Great. What time will we go?",
-        "english": "dii looei khráp. phûuak-rao jà bpai gan gìi moong khráp.",
+        "english": "Seven A.M.",
+        "thai": "jèt moong cháao.",
         "filename": "",
         "dateAdded": ""
     },
     {
-        "thai": "Seven A.M.",
-        "english": "jèt moong cháao.",
+        "english": "you, he, she, person (polite)",
+        "thai": "thân",
         "filename": "",
         "dateAdded": ""
     },
     {
-        "thai": "you, he, she, person (polite)",
-        "english": "thân",
+        "english": "glass, crystal",
+        "thai": "gâaeo",
         "filename": "",
         "dateAdded": ""
     },
     {
-        "thai": "glass, crystal",
-        "english": "gâaeo",
+        "english": "fork",
+        "thai": "sâawm",
         "filename": "",
         "dateAdded": ""
     },
     {
-        "thai": "fork",
-        "english": "sâawm",
+        "english": "spoon",
+        "thai": "cháawn",
         "filename": "",
         "dateAdded": ""
     },
     {
-        "thai": "spoon",
-        "english": "cháawn",
+        "english": "to teach",
+        "thai": "sǎawn",
         "filename": "",
         "dateAdded": ""
     },
     {
-        "thai": "to teach",
-        "english": "sǎawn",
+        "english": "mouse, rat, I (child), you (child)",
+        "thai": "nǔu",
         "filename": "",
         "dateAdded": ""
     },
     {
-        "thai": "mouse, rat, I (child), you (child)",
-        "english": "nǔu",
+        "english": "university",
+        "thai": "má-hǎa-wít-thá-yaa-lai (mah for short)",
         "filename": "",
         "dateAdded": ""
     },
     {
-        "thai": "university",
-        "english": "má-hǎa-wít-thá-yaa-lai",
+        "english": "professor",
+        "thai": "aa-jaan",
         "filename": "",
         "dateAdded": ""
     },
     {
-        "thai": "professor",
-        "english": "aa-jaan",
+        "english": "She's your Thai language professor",
+        "thai": "thâan bpen aa-jaan phaa-sǎa-thai khǎawng jeem",
         "filename": "",
         "dateAdded": ""
     },
     {
-        "thai": "She's your Thai language professor",
-        "english": "thâan bpen aa-jaan phaa-sǎa-thai khǎawng jeem",
+        "english": "he, she",
+        "thai": "khǎo",
         "filename": "",
         "dateAdded": ""
     },
     {
-        "thai": "he, she",
-        "english": "khǎo",
+        "english": "they",
+        "thai": "phûuak khǎo",
         "filename": "",
         "dateAdded": ""
     },
     {
-        "thai": "they",
-        "english": "phûuak khǎo",
+        "english": "need to",
+        "thai": "dtâwng",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "word used after negative statement to make the sense milder.",
+        "thai": "ràawk",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "take somewhere",
+        "thai": "phaa",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "meet",
+        "thai": "phóp gàp",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "want you to",
+        "thai": "yàak hâi khun",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "one person",
+        "thai": "khon thâan nùeng",
         "filename": "",
         "dateAdded": ""
     }

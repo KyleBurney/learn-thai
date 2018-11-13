@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import FlashCard from '../FlashCard';
 import Button from '@material-ui/core/Button';
-import words from '../../data/words2.json';
+import words from '../../data/newerwords.json';
 
 class CardsPanel extends Component {
     constructor(props) {

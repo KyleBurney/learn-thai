@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import { withStyles } from '@material-ui/core/styles';
 import TextField from '@material-ui/core/TextField';
-import allWords from '../../data/words2.json';
+import newerWords from '../../data/newerwords.json';
 import practiceListWords from '../../data/practiceListWords.json';
 import Button from '@material-ui/core/Button';
 var RecordRTC = require('recordrtc');
@@ -55,7 +55,7 @@ class AddCardPanel extends Component {
     };
 
     addCard = () => {
-        let newWords = allWords;
+        let newWords = newerWords;
         if (this.props.englishTerm) {
             let indexOfCurrentWord = this.getIndexOfWord(newWords, this.props.englishTerm);
             if (indexOfCurrentWord !== -1) {
@@ -88,11 +88,11 @@ class AddCardPanel extends Component {
     };
 
     deleteCard = () => {
-        let indexOfCurrentWord = this.getIndexOfWord(allWords, this.props.englishTerm);
+        let indexOfCurrentWord = this.getIndexOfWord(newerWords, this.props.englishTerm);
         if (indexOfCurrentWord !== -1) {
-            allWords.splice(indexOfCurrentWord, 1);
+            newerWords.splice(indexOfCurrentWord, 1);
             console.log("delete ", this.props.recordingFile);
-            this.writeToFile("words.json", allWords);
+            this.writeToFile("words.json", newerWords);
         }
 
         indexOfCurrentWord = this.getIndexOfWord(practiceListWords, this.props.englishTerm);
