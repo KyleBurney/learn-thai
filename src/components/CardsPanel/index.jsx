@@ -1,7 +1,10 @@
 import React, { Component } from 'react';
 import FlashCard from '../FlashCard';
 import Button from '@material-ui/core/Button';
-import words from '../../data/newerwords.json';
+import newerWords from '../../data/newerwords.json';
+import memorizedWords from '../../data/memorizedwords.json';
+
+var words = newerWords.concat(memorizedWords);
 
 class CardsPanel extends Component {
     constructor(props) {

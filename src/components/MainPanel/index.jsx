@@ -15,6 +15,14 @@ import lesson3Words from '../../data/lesson3.json';
 import lesson4Words from '../../data/lesson4.json';
 import lesson5Words from '../../data/lesson5.json';
 import lesson6Words from '../../data/lesson6.json';
+import lesson7Words from '../../data/lesson7.json';
+import lesson8Words from '../../data/lesson8.json';
+import lesson9Words from '../../data/lesson9.json';
+import lesson10Words from '../../data/lesson10.json';
+import lesson11Words from '../../data/lesson11.json';
+import lesson12Words from '../../data/lesson12.json';
+import lesson13Words from '../../data/lesson13.json';
+import lesson14Words from '../../data/lesson14.json';
 
 const styles = theme => ({
   paper: {
@@ -75,6 +83,14 @@ class MainPanel extends Component {
         <Button onClick={() => { this.setState({ cardsToShow: lesson4Words, showAllCards: true }) }}>Lesson 4</Button>
         <Button onClick={() => { this.setState({ cardsToShow: lesson5Words, showAllCards: true }) }}>Lesson 5</Button>
         <Button onClick={() => { this.setState({ cardsToShow: lesson6Words, showAllCards: true }) }}>Lesson 6</Button>
+        <Button onClick={() => { this.setState({ cardsToShow: lesson7Words, showAllCards: true }) }}>Lesson 7</Button>
+        <Button onClick={() => { this.setState({ cardsToShow: lesson8Words, showAllCards: true }) }}>Lesson 8</Button>
+        <Button onClick={() => { this.setState({ cardsToShow: lesson9Words, showAllCards: true }) }}>Lesson 9</Button>
+        <Button onClick={() => { this.setState({ cardsToShow: lesson10Words, showAllCards: true }) }}>Lesson 10</Button>
+        <Button onClick={() => { this.setState({ cardsToShow: lesson11Words, showAllCards: true }) }}>Lesson 11</Button>
+        <Button onClick={() => { this.setState({ cardsToShow: lesson12Words, showAllCards: true }) }}>Lesson 12</Button>
+        <Button onClick={() => { this.setState({ cardsToShow: lesson13Words, showAllCards: true }) }}>Lesson 13</Button>
+        <Button onClick={() => { this.setState({ cardsToShow: lesson14Words, showAllCards: true }) }}>Lesson 14</Button>
         <Button onClick={() => { this.setState({ showAllCards: false }) }}>One card at a time</Button>
         <Button onClick={this.handleOpen}>Add a Card</Button>
         <Modal
