@@ -6,7 +6,7 @@
         "dateAdded": ""
     },
     {
-        "english": "James, try this chili sauce. It's delicious.",
+        "english": "James, try tasting this chili sauce. It's delicious.",
         "thai": "jeem, laawng chim nám-phrík níi sì. à-ràwy ná. ",
         "filename": "",
         "dateAdded": ""
@@ -24,13 +24,13 @@
         "dateAdded": ""
     },
     {
-        "english": "Then do you want to eat some fish? It's not spicy at all.",
-        "thai": "ngán gin bplaa gâaw mǎi. mâi phèt looei.",
+        "english": "Then eat fish? It's not spicy at all.",
+        "thai": "ngán gin bplaa mǎi. mâi phèt looei.",
         "filename": "",
         "dateAdded": ""
     },
     {
-        "english": "Sure. Fish will be better.",
+        "english": "Sure. Eating fish probably will be better.",
         "thai": "khráp. gin bplaa nâa jà dii gwàa. ",
         "filename": "",
         "dateAdded": ""
@@ -42,7 +42,7 @@
         "dateAdded": ""
     },
     {
-        "english": "That's what you get for eating too fast.",
+        "english": "That's what you get. eat too fast this way.",
         "thai": "sǒm nám nâa. gin reo gooen bpai gâaw yàang níi làe.",
         "filename": "",
         "dateAdded": ""
@@ -60,7 +60,7 @@
         "dateAdded": ""
     },
     {
-        "english": "Don't worry. You think too much",
+        "english": "Don't need to worry. You think too much",
         "thai": "mâi dtâwng hùuang. khun khít mâak bpai",
         "filename": "",
         "dateAdded": ""
@@ -104,6 +104,30 @@
     {
         "english": "stuffed belly",
         "thai": "nâaen tháawng",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "think",
+        "thai": "khít",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "worry",
+        "thai": "hùuang",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "otherwise",
+        "thai": "ngán",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "this way",
+        "thai": "gâaw yàang níi",
         "filename": "",
         "dateAdded": ""
     }
