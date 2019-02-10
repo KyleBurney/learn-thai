@@ -1,0 +1,4118 @@
+[
+    {
+        "thai": "sà-wàt-dii khráp khun phâaw khun mâae.",
+        "english": "Hello Father, Mother.",
+        "filename": "lesson1A.m4a",
+        "dateAdded": ""
+    },
+    {
+        "thai": "sà-wàt-dii khráp khun jeem. sà-baai dii mǎi khráp.",
+        "english": "Hello James. How are you?",
+        "filename": "lesson1B.m4a",
+        "dateAdded": ""
+    },
+    {
+        "thai": "sà-baai dii khráp. láaeo khun phâaw gàp khun mâae lâ khráp.",
+        "english": "I'm fine. And you, dad and mom?",
+        "filename": "lesson1C.m4a",
+        "dateAdded": ""
+    },
+    {
+        "thai": "phûuak-rao gâaw sà-baai dii khâ.",
+        "english": "We're fine.",
+        "filename": "lesson1D.m4a",
+        "dateAdded": ""
+    },
+    {
+        "thai": "khun jeem nîi ní-chaa lûuk-sǎao khǎawng phǒm khráp.",
+        "english": "James, this is Nicha, my daughter.",
+        "filename": "lesson1E.m4a",
+        "dateAdded": ""
+    },
+    {
+        "thai": "sà-wàt-dii khâ. yin-dii thîi dâai rúu-jàk khâ.",
+        "english": "Hello. Nice to meet you.",
+        "filename": "lesson1F.m4a",
+        "dateAdded": ""
+    },
+    {
+        "thai": "sà-wàt-dii khráp. yin-dii thîi dâai rúu-jàk chên gan khráp.",
+        "english": "Hello. Nice to meet you, too.",
+        "filename": "lesson1G.m4a",
+        "dateAdded": ""
+    },
+    {
+        "thai": "chûuai thǔue grà-bpǎo mǎi khá. óoi... grà-bpǎo bai níi nàk mâak.",
+        "english": "Shall I help carry the bags? Oh, this bag is so heavy!",
+        "filename": "lesson1H.m4a",
+        "dateAdded": ""
+    },
+    {
+        "thai": "mâi bpen rai khráp. phǒm thǔue eeng dâai khráp. rót yùu thîi-nǎi khráp.",
+        "english": "Don't worry about it. I can carry it myself. Where is the car?",
+        "filename": "lesson1I.m4a",
+        "dateAdded": ""
+    },
+    {
+        "thai": "ǎaw...rót yùu thaang nóon",
+        "english": "Uh...the car is way over there.",
+        "filename": "lesson1J.m4a",
+        "dateAdded": ""
+    },
+    {
+        "thai": "nîi à-rai",
+        "english": "What's this?",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "an níi khuue à-rai",
+        "english": "What is this thing?",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "nân khrai",
+        "english": "Who's that?",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "khon nán bpen khrai",
+        "english": "Who is that person?",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "nôon bpen roong-riian khǎawng phǒm",
+        "english": "Over there, is my school.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "roong-riian khǎawng phǒm khuue dtùek nóon",
+        "english": "My school is that building over there.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "khon thîi sài chút sǐi-nám-dtaan khuue khrai khráp.",
+        "english": "Who is the person wearing a brown outfit?",
+        "filename": "lesson2A.m4a",
+        "dateAdded": ""
+    },
+    {
+        "thai": "âaw...khǎo bpen dtam-rùuat nâ khráp.",
+        "english": "Oh...he's a police officer.",
+        "filename": "lesson2B.m4a",
+        "dateAdded": ""
+    },
+    {
+        "thai": "láaeo dèk phûu-chaai khon nán thîi sài phâa sǐi-sôm bpen phrá-sǒng châi mǎi khráp.",
+        "english": "And that boy wearing orange cloth is a monk, right?",
+        "filename": "lesson2C.m4a",
+        "dateAdded": ""
+    },
+    {
+        "thai": "mâi châi khráp. nân neen khráp.",
+        "english": "No. That's a novice monk.",
+        "filename": "lesson2D.m4a",
+        "dateAdded": ""
+    },
+    {
+        "thai": "pueak rao thǔeng bâan láaeo khâ.",
+        "english": "We arrived home.",
+        "filename": "lesson2E.m4a",
+        "dateAdded": ""
+    },
+    {
+        "thai": "lǎng nǎi khráp.",
+        "english": "Which house is it?",
+        "filename": "lesson2F.m4a",
+        "dateAdded": ""
+    },
+    {
+        "thai": "bâan thîi mii dtôn-phài khâ.",
+        "english": "It's the house with the bamboo.",
+        "filename": "lesson2G.m4a",
+        "dateAdded": ""
+    },
+    {
+        "thai": "neen",
+        "english": "novice monk",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "phrá-sǒng",
+        "english": "Buddhist monk",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "sǐi-sôm",
+        "english": "orange",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "dèk-phûu-chaai",
+        "english": "boy",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "sǐi-nám-dtaan",
+        "english": "brown",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "sài",
+        "english": "to put in, to wear",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "dtôn-phài",
+        "english": "bamboo",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "khon thîi sài mùuak sǐi-daaeng",
+        "english": "the person who is wearing a red hat",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "aa-hǎan thîi à-ràwy",
+        "english": "food that is delicious",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "rót-mei khan thîi sǎawng",
+        "english": "the second bus",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "dtam-rùuat khon thîi sǎam",
+        "english": "the third police officer",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "mùuak",
+        "english": "hat",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "sǐi-daaeng",
+        "english": "red",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "thǔeng",
+        "english": "arrive",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "chút",
+        "english": "cloths",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "nîi...jeem. bpen nák-sùek-sǎa-lâaek-bpliian jàak sà-hà-rát-à-mee-rí-gaa.",
+        "english": "This is James. He's an exchange student from the United States.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "sà-wàt-dii khráp. yin-dii thîi dâai rúu-jàk thúk khon khráp.",
+        "english": "Hello. I'm glad to meet everyone.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "jeem khon níi khuue khun dtaa.",
+        "english": "James, this is Grandfather.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "sà-wàt-dii khráp khun dtaa.",
+        "english": "Hello, Grandfather.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "sà-wàt-dii. sà-wàt-dii.",
+        "english": "Hello, hello.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "sùuan khon níi khuue khun yaai.",
+        "english": "And this here is Grandmother.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "sà-wàt-dii khráp khun yaai.",
+        "english": "Hello, Grandmother.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "sà-wàt-dii jâ jeem. rûup làaw ná níi. mii faaen rǔue yang lâ.",
+        "english": "Hello, James. You're extra handsome. Do you have a girlfriend yet?",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "yang mâi mii khráp.",
+        "english": "I still don't have.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "jeem khá. nîi náawng-sǎao khǎawng dì-chǎn. chûue jíiap khâ.",
+        "english": "James, this is my younger sister. Her name is Jiap.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "sà-wàt-dii khâ. phîi jeem jà yùu thîi-nîi naan thâo-rài khá.",
+        "english": "Hello. How long are you going to stay here?",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "nùeng bpii khráp.",
+        "english": "One year.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "nák-sùek-sǎa-lâaek-bpliian",
+        "english": "exchange student",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "rûup",
+        "english": "form, picture, image, body",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "sà-hà-rát-à-mee-rí-gaa",
+        "english": "the United States of America",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "yaai",
+        "english": "mothers side Grandmother",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "dtaa",
+        "english": "mothers side grandfather",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "náa",
+        "english": "mothers youger sister/brother",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "bpâa",
+        "english": "mothers/fathers elder sister",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "lung",
+        "english": "mothers/fathers elder brother",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "yâa",
+        "english": "fathers side grandmother",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "bpùu",
+        "english": "fathers side grandfather",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "aa",
+        "english": "fathers younger sister/brother",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "jà",
+        "english": "will",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "yùu",
+        "english": "stay (not in house or hotel)",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "sùuan",
+        "english": "and then",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "rûup làaw",
+        "english": "look handsome",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "ná níi",
+        "english": "very (more than usual)",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "yang",
+        "english": "still",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "thai": "rǔue yang",
+        "english": "yet",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "What did you come to Thailand to study?",
+        "thai": "jeem maa riian à-rai thîi muueang-thai khá.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I came to study Thai at Chiang Mai University.",
+        "thai": "phǒm maa riian phaa-sǎa-thai thîi má-hǎa-wít-thá-yaa-lai chiiang mài khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "You don't have to go to the University to study. I can teach you. This is a spoon. This is a fork. This is a glass.",
+        "thai": "phîi jeem mâi dtâwng bpai riian thîi má-hǎa-wít-thá-yaa-lai ràawk khâ. nǔu sǎawn hâi dâai. nîi khuue cháawn. nîi khuue sâawm. nîi khuue gâaeo.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "That's enough, child.",
+        "thai": "phaaw láaeo lûuk.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "James, tomorrow I'll take you to the university. I want you to meet one professor.",
+        "thai": "jeem phrûng-níi rao jà phaa jeem bpai má-hǎa-wít-thá-yaa-lai ná. yàak hâi jeem phóp gàp aa-jaan thâan nùeng.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Which professor?",
+        "thai": "aa-jaan khon nǎi khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Great. What time will we go?",
+        "thai": "dii looei khráp. phûuak-rao jà bpai gan gìi moong khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Seven A.M.",
+        "thai": "jèt moong cháao.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "you, he, she, person (polite)",
+        "thai": "thân",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "glass, crystal",
+        "thai": "gâaeo",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "fork",
+        "thai": "sâawm",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "spoon",
+        "thai": "cháawn",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "to teach",
+        "thai": "sǎawn",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "mouse, rat, I (child), you (child)",
+        "thai": "nǔu",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "university",
+        "thai": "má-hǎa-wít-thá-yaa-lai (mah for short)",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "professor",
+        "thai": "aa-jaan",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "She's your Thai language professor",
+        "thai": "thâan bpen aa-jaan phaa-sǎa-thai khǎawng jeem",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "he, she",
+        "thai": "khǎo",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "they",
+        "thai": "phûuak khǎo",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "need to",
+        "thai": "dtâwng",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "word used after negative statement to make the sense milder.",
+        "thai": "ràawk",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "take somewhere",
+        "thai": "phaa",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "meet",
+        "thai": "phóp gàp",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "want you to",
+        "thai": "yàak hâi khun",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "one person",
+        "thai": "khon thâan nùeng",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Where's my bag?",
+        "thai": "grà-bpǎo khǎawng phǒm yùu thîi-nǎi.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "It's on the table.",
+        "thai": "yùu bon dtó khâ.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "What about my shoes?",
+        "thai": "láaeo raawng-tháao lâ khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "your shoes are near the door, between Father's shoes and Mother's shoes.",
+        "thai": "raawng-tháao khǎawng jeem yùu glâi gàp bprà-dtuu. rá-wàang raawng-tháao khǎawng khun phâaw gàp raawng-tháao khǎawng khun mâae khâ.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Thank you very much, Nicha.",
+        "thai": "khàawp khun mâak khráp ní-chaa.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "You can call me by my nickname, Nune",
+        "thai": "jeem rîiak chûue-lên khǎawng rao gâaw dâai khâ nûn.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Okay. Thank you very much, Nune. Is the university far from your house?",
+        "thai": "khráp. khàawp khun mâak khráp nûn. má-hǎa-wít-thá-yaa-lai yùu glai jàak bâan mǎi khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Not far. We can ride a motorcycle. It takes five minutes.",
+        "thai": "mâi glai khâ. khìi maaw-dtooe-sai bpai khâ. chái wee-laa hâa naa-thii.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "The cat is under the table.",
+        "thai": "maaeo yùu dtâai dtó",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "My house is located between the school and a restaurant.",
+        "thai": "bâan khǎawng phǒm yùu rá-wàang roong-riian gàp ráan-aa-hǎan",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "His house is near the market.",
+        "thai": "bâan khǎo yùu glâi gàp dtà-làat",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "The office is far from my house.",
+        "thai": "thîi-tham-ngaan yùu glai jàak bâan khǎawng chǎn",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "between, during, while",
+        "thai": "rá-wàang",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "nickname",
+        "thai": "chûue-lên",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "to call (not by phone)",
+        "thai": "rîiak",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "door",
+        "thai": "bprà-dtuu",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "shoe",
+        "thai": "raawng-tháao",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "table",
+        "thai": "dtó",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "on, above",
+        "thai": "bon",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "far",
+        "thai": "glai",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "near",
+        "thai": "glâi",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "office",
+        "thai": "thîi-tham-ngaan",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "market",
+        "thai": "dtà-làat",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "restaurant",
+        "thai": "ráan-aa-hǎan",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "under",
+        "thai": "dtâai",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "ride",
+        "thai": "khìi",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "it takes (time)",
+        "thai": "chái wee-laa",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "can (like it's okay)",
+        "thai": "gâaw dâai",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Excuse me. Where is the library?",
+        "thai": "khǎaw-thôot ná khráp. hâwng-sà-mùt yùu thîi-nǎi khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Walk straight until you get to the four-way intersection with a big clock.",
+        "thai": "dooen dtrong bpai thǔeng sìi-yâaek thîi mii naa-lí-gaa an yài ná khá.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Then walk straight another one hundred meters. You'll see the library on the right-hand side.",
+        "thai": "láaeo gâaw dooen dtrong bpai ìik nùeng-ráawy méet. jà hěn hâwng-sà-mùt yùu thaang khwǎa muue khâ.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Thank you very much.",
+        "thai": "khàawp khun mâak ná khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "You speak Thai very clearly. Do you study Thai here?",
+        "thai": "khun phûut phaa-sǎa-thai chát mâak looei khâ. riian phaa-sǎa-thai yùu thîi-nîi rǒoe khá.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Thank you. I started studying Thai in America first. Now I'm an exchange student.",
+        "thai": "khàawp khun khráp. phǒm rôoem riian thîi à-mee-rí-gaa gàawn. dtaawn níi bpen nák-sùek-sǎa-lâaek-bpliian khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "that's great! Good luck!",
+        "thai": "dii jang looei khâ. khǎaw hâi chôok dii ná khá.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Then turn left.",
+        "thai": "láaeo líiao sáai khâ.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Turn right at the four-way intersection.",
+        "thai": "líiao khwǎa thîi sìi-yâaek",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Where is a bank?",
+        "thai": "thá-naa-khaan yùu thîi-nǎi khráp",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Go this way. Then turn left at the three-way intersection. There is a bank on the right-hand side, between a restaurant and a coffee shop",
+        "thai": "bpai thaang níi. láaeo líiao sáai thîi sǎam-yâaek. mii thá-naa-khaan yùu thaang khwǎa-muue rá-wàang ráan-aa-hǎan gàp ráan-gaa-faae",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Go this way",
+        "thai": "bpai thaang níi",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Go that way",
+        "thai": "bpai thaang nán",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "to start",
+        "thai": "rôoem",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "to go straight",
+        "thai": "dtrong bpai",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "library",
+        "thai": "hâwng-sà-mùt",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "four-way intersection",
+        "thai": "sìi-yâaek",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "clear, clearly",
+        "thai": "chát",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "way",
+        "thai": "thaang",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "bank",
+        "thai": "thá-naa-khaan",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "good luck",
+        "thai": "khǎaw hâi chôok dii",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "another (distance)",
+        "thai": "ìik",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "right hand side",
+        "thai": "thaang khwǎa muue",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "first, before",
+        "thai": "gàawn",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "now",
+        "thai": "dtaawn níi",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "coffee shop",
+        "thai": "ráan-gaa-faae",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Excuse me. Where are the books about Thai culture?",
+        "thai": "khǎaw-thôot ná khráp. nǎng-sǔue gìiao-gàp wát-thá-ná-tham thai yùu thîi-nǎi khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Upstairs. Third floor.",
+        "thai": "yùu khâang bon khâ. chán sǎam.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "It's downstairs on the third floor.",
+        "thai": "yùu khâang lâang thîi chán sǎam khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Huh...and which floor is this one?",
+        "thai": "hǎa...láaeo chán níi chán à-rai khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Fourth floor.",
+        "thai": "chán sìi khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Okay. Thank you.",
+        "thai": "oo-khee khráp...khàawp khun khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Sir...you can't drink a Coke inside the library. You need to go drink it outside.",
+        "thai": "khun khá...dùuem khóok khâang nai hâwng-sà-mùt mâi dâai khâ. dtâwng àawk bpai dùuem khâang nâawk.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I'm waiting for you in front of the cinema.",
+        "thai": "phǒm raaw khun yùu khâang-nâa roong-nǎng",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "The family that lives upstairs has five children",
+        "thai": "khrâawp-khruua thîi phák yùu khâang-bon mii lûuk hâa khon",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "inside the office is colder than outside.",
+        "thai": "khâang-nai thîi tham-ngaan yen gwàa khâang-nâawk",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Over that way, behind that table",
+        "thai": "yùu dtrong nán khâ. khâang lǎng dtó dtuua nán. ",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "behind",
+        "thai": "khâang-lǎng",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "floor, level, layer",
+        "thai": "chán",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "culture",
+        "thai": "wát-thá-ná-tham",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "about, regarding",
+        "thai": "gìiao-gàp",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "book",
+        "thai": "năng-sǔue",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "outside",
+        "thai": "khâang-nâawk",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "inside",
+        "thai": "khâang-nai",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "below, downstairs",
+        "thai": "khâang-lâang",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "above, upstairs",
+        "thai": "khâang-bon",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "to go out",
+        "thai": "àawk",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "side",
+        "thai": "khâang",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "in",
+        "thai": "nai",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Out",
+        "thai": "nâawk",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "in front",
+        "thai": "khâang-nâa",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "wait",
+        "thai": "raaw",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "cinema",
+        "thai": "roong-nǎng",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "weekend",
+        "thai": "sǎo-aa-thít",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "complete",
+        "thai": "khróp",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "holiday",
+        "thai": "wan-yùt",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "month",
+        "thai": "duuean",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "years (regards to age under 14)",
+        "thai": "khùuap",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "how much, how many",
+        "thai": "gìi",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "to be born",
+        "thai": "gòoet",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I was born on a Monday",
+        "thai": "rao gòoet wan-jan",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "This weekend, I will go to Bangkok",
+        "thai": "sǎo-aa-thít jà bpai grung-thêep",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "The seventh is a holiday",
+        "thai": "wan thîi jèt bpen wan-yùt",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "James, tomorrow is my birthday.",
+        "thai": "phîi jeem khá. phrûng-níi bpen wan-gòoet khǎawng nǔu khâ.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Really? Tomorrow, how many years old will you be?",
+        "thai": "rǒoe khráp. phrûng-níi náawng jíiap aa-yú jà khróp gìi khùuap khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Seven years old. And you were born on which date?",
+        "thai": "jèt khùaap khâ. láaeo phîi jeem gòoet wan thîi thâo-rài khá.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "September twenty-eighth.",
+        "thai": "wan thîi yîi-sìp-bpàaet duuean gan-yaa-yon khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Which day? I was born on a Monday.",
+        "thai": "wan à-rai khá. rao gòoet wan-jan.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I was born on a Saturday.",
+        "thai": "jíiap gòoet wan-sǎo.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Huh? You don't know your birthday?",
+        "thai": "hǎa...jeem mâi rúu wan-gòoet khǎawng dtuua eeng rǒoe.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Errr...I don't know. In America, it's not important.",
+        "thai": "òoe...mâi rúu khráp. thîi à-mee-rí-gaa mâi sǎm-khan.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "When is your birthday, Nune?",
+        "thai": "láaeo nûn gòoet wan thîi thâo-rài khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "November eleventh. In this month there is also Loi Krathong Day.",
+        "thai": "wan thîi sìp-èt duuean phrúet-sà-jì-gaa-yon khâ. nai duuean níi mii wan laawy grà-thong dûuai ná khá.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I love Loi Krathong Day, but I love Songkran Day even more.",
+        "thai": "jíiap châawp wan laawy grà-thong mâak. dtàae châawp wan sǒng-graan mâak gwàa.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Songkran Day is in which month?",
+        "thai": "wan sǒng-graan yùu nai duuean à-rai khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "April. Umm...what year were you born in, James?",
+        "thai": "duuean mee-sǎa-yon khâ. ôoe...láaeo jeem gòoet bpii à-rai rǒoe.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "The year 1990.",
+        "thai": "bpii phan gâao-ráawy gâao-sìp khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Huh? You're really old! Your age is very different from mine. I was born in the year 2544.",
+        "thai": "hǎa...phîi jeem gàae mâak. aa-yú hàang jàak nǔu yóe mâak. nǔu gòoet bpii sǎawng-phan hâa-ráawy sìi-sìp-sìi.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Huh? You come from the future?",
+        "thai": "hǎa...náawng jíiap maa jàak à-naa-khót.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "No, no. We are talking about the Buddhist Era years. But you were talking about the Christian Era years.",
+        "thai": "mâi châi mâi châi jeem. rao gam-lang phûut thǔeng bpii phaaw sǎaw yùu khâ. thîi jeem phûut nâ bpen bpii khaaw sǎaw.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Ah...I get it now.",
+        "thai": "ǎaw...khâo-jai láaeo khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Loi Krathong Day, river goddess worship festival",
+        "thai": "wan laawy grà-thong",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "but, just, only",
+        "thai": "dtàae",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Songkran Festival Day",
+        "thai": "wan sǒng-graan",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "old, elderly",
+        "thai": "gàae",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "future",
+        "thai": "à-naa-khót",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "My older brother will go back to the United States in June (6th month)",
+        "thai": "phîi-chaai jà glàp bpai à-mee-rí-gaa duuean thîi hòk",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "January",
+        "thai": "mók-gà-raa-khom",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "February",
+        "thai": "gum-phaa-phan",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "March",
+        "thai": "mii-naa-khom",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "April",
+        "thai": "mee-sǎa-yon",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "May",
+        "thai": "phrúet-sà-phaa-khom",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "June",
+        "thai": "mí-thù-naa-yon",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "July",
+        "thai": "gà-rák-gà-daa-khom",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "August",
+        "thai": "sǐng-hǎa-khom",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "September",
+        "thai": "gan-yaa-yon",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "October",
+        "thai": "dtù-laa-khom",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "November",
+        "thai": "phrúet-sà-jì-gaa-yon",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "December",
+        "thai": "than-waa-khom",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "far",
+        "thai": "hàang",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "about",
+        "thai": "thǔeng",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "(still doing something)",
+        "thai": "yùu",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "where as",
+        "thai": "thîi",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "also",
+        "thai": "dûuai",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Hey, in two weeks we're going to go to Pai. Do you want to come with?",
+        "thai": "nîi ìik sǎawng aa-thít rao jà bpai bpaai làe. bpai dûuai gan mǎi.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I went there last year. It was really fun. So what are you going to do in Pai?",
+        "thai": "rao khooei bpai mûuea bpii gàawn. sà-nùk mâak mâak looei. wâa dtàae...jà bpai tham à-rai thîi bpaai rǒoe.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "We're going rafting.",
+        "thai": "bpai lâwng gàeng.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "three years ago, I went rafting on the Colorado River in America. It was very fun.",
+        "thai": "mûuea sǎam bpii thîi láaeo phǒm khooei lâwng gàeng thîi mâae-náam khoo-loo-raa-dôo thîi à-mee-rí-gaa khráp. sà-nùk mâak mâak.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Well then, come with us!",
+        "thai": "ngán gâaw bpai dûuai gan sì khráp jeem.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Sure. I'll go.",
+        "thai": "khráp. bpai khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "time, when, while",
+        "thai": "mûuea",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "to go white-water rafting",
+        "thai": "lâwng-gàeng",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "River",
+        "thai": "mâae-náam",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "well then",
+        "thai": "ngán-gâaw",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "He came to Thailand five months ago",
+        "thai": "khǎo maa muueang-thai hâa duuean thîi láaeo",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I saw a really funny movie three days ago",
+        "thai": "chǎn duu nǎng dtà-lòk mâak sǎam wan thîi láaeo",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "In two years, I will buy my own house",
+        "thai": "iik sǎawng bpii phǒm jà súue bâan eeng",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "In another four days, it will be Mother's birthday",
+        "thai": "ìik sìi wan jà bpen wan-gòoet khǎawng khun-mâae",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I went there last year",
+        "thai": "rao khooei bpai mûuea bpii gàawn",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "last week",
+        "thai": "aa-thít gàawn",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "this week",
+        "thai": "aa-thít níi",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "next week",
+        "thai": "aa-thít nâa",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "last month",
+        "thai": "duuean gàawn",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "next month",
+        "thai": "duuean nâa",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "last year",
+        "thai": "bpii gàawn",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "next year",
+        "thai": "bpii nâa",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "to let you know (kind of show off)",
+        "thai": "làe",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "together",
+        "thai": "dûuai gan",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "movie",
+        "thai": "nǎng",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "funny",
+        "thai": "dtà-lòk",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "so..",
+        "thai": "wâa dtàae",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Can I sit too?",
+        "thai": "khǎaw nâng dûuai dâai mǎi já.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Of course, Phueng.",
+        "thai": "dâai looei jâ phûeng.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Hey, I just heard from Benz that you and Nune are going to go to Pai with us.",
+        "thai": "mûuea-gîi dâi yin maa jàak been wâa jeem gàp nûn jà bpai bpaai gàp phûuak-rao rǔue já.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "That's right.",
+        "thai": "châi láaeo khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Heard Benz also said that you went rafting before on the Colorado River. When did you go there, James?",
+        "thai": "hěn been lâo hâi fang dûuai wâa jeem kooei bpai lâawng-gàaeng thîi mâae-náam khoo-loo-raa-dôo dûuai. jeem bpai maa mûuea-rài rǔue khá.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I went when in 6th year of high school.",
+        "thai": "bpai maa mûuea dtaawn yùu maaw hòk khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Was it fun?",
+        "thai": "sà-nùk mǎi khá.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "It was a lot of fun, but I was little scared.",
+        "thai": "sà-nùk mâak khráp. dtàae gluua nít-nàwy.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "So...what do you like to do in your free time, James?",
+        "thai": "wâa dtàae...wee-laa wâang jeem châawp tham à-rai khá.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I like to play the guitar, like to play basketball, and like to watch movies.",
+        "thai": "châawp lên gii-dtâa châawp lên báas-gét-bawn láaeo gâaw châawp duu nǎng khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "In that case, you should take your guitar to Pai too. You can play guitar for our friends to hear at dinnertime.",
+        "thai": "thâa yàang nán jeem gâaw ao gii-dtâa bpai bpaai dûuai sì. jà dâai lên gii-dtâa hâi phûuean-phûuean fang dtaawn thaan khâao.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Before, he said that he wasn't going",
+        "thai": "mûuea gàawn khǎo bàawk wâa jà mâi bpai",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "When I have a problem I like to talk with my mother",
+        "thai": "mûuea mii bpan-hǎa châawp khui gàp khun mâae",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "when I was a kid, I was very stubborn",
+        "thai": "dtaawn bpen dèk dì-chǎn dûue mâak",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "My little sister likes to go shopping in her free time",
+        "thai": "wee-laa wâang náawng-sǎao châawp bpai súue khǎawng",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Father likes to watch TV when he eats",
+        "thai": "khun phâaw châawp duu thii-wii dtaawn thaan khâao",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "a moment ago",
+        "thai": "mûuea-gîi",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "free time",
+        "thai": "wee-laa wâang",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "to hear",
+        "thai": "dâi yin",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "to tell",
+        "thai": "lâo",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "afraid",
+        "thai": "gluua",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "(polite way to say) eat",
+        "thai": "thaan",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "stubborn/naughty",
+        "thai": "dûue",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "talk",
+        "thai": "khui",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "problem",
+        "thai": "bpan-hǎa",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "said that..",
+        "thai": "bàawk wâa",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "heard that..",
+        "thai": "hěn wâa",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "heard from Ben",
+        "thai": "dâi yin maa jàak Ben",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "before",
+        "thai": "mûuea gàawn",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "in that case",
+        "thai": "thâa yàang nán",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "play (instrument or sport)",
+        "thai": "lên",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "went",
+        "thai": "bpai maa",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "when (doing something)",
+        "thai": "dtaawn",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "when (past reference)",
+        "thai": "mûuea dtaawn",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "take (a thing)",
+        "thai": "gâaw ao",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "kid",
+        "thai": "dèk",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Hey, Benz! Don't drive so fast. Drive a little more slowly. There are many curves. It's dangerous.",
+        "thai": "nîi...been, yàa khàp rót reo nák sì. khàp cháa-cháa nàwy. thaang-khóong yóe. an-dtà-raai ná.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Yes, ma'am. I'm driving slowly already.",
+        "thai": "khráp, phǒm khàp cháa-cháa láaeo khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "James, is studying Thai difficult?",
+        "thai": "jeem...riian phaa-sǎa-thai yâak mǎi khá.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "It's not difficult. It's easy.",
+        "thai": "mâi yâak khráp. ngâai khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "You have a guitar, right?",
+        "thai": "jeem mii gii-dtâa châi mǎi khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "That's right.",
+        "thai": "châi khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Was it expensive?",
+        "thai": "phaaeng mǎi khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "No, not expensive. It was really cheap. It's a secondhand guitar that was two thousand baht.",
+        "thai": "mâi phaaeng khráp. thùuk-thùuk. bpen gii-dtâa muue sǎawng raa-khaa sǎawng-phan bàat khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Wow! That is cheap.",
+        "thai": "ôo-hǒo...thùuk jing-jing dûuai. ",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Can you play the guitar, Art?",
+        "thai": "phîi àat lên gii-dtâa dâai mǎi khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I can a little bit.",
+        "thai": "dâai nít-nàwy khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Is the weather going to be hot in Pai this weekend?",
+        "thai": "sǎo-aa-thít níi aa-gàat thîi bpaai jà ráawn mǎi khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Not hot. The weather is nice and cool.",
+        "thai": "mâi ráawn khráp. aa-gàat yen sà-baai.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "If you're cold, you should put on a jacket",
+        "thai": "thâa khun nǎao sài sûuea-jáek-gèt sì khráp",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Eat quickly. The food is getting cold.",
+        "thai": "gin reo reo sì khráp. aa-hǎan jà yen ná",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "In Tokyo has many people",
+        "thai": "thîi muueang dtoo-giiao mii khon yóe",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "My older sister likes to cut her hair short",
+        "thai": "phîi-sǎao khǎawng chǎn châawp dtàt phǒm sân",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "The big demon chases the little demon",
+        "thai": "yák yài lâi yák lék",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "pleasantly cool",
+        "thai": "yen sà-baai",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "curve",
+        "thai": "thaang-khóong",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "drive a car",
+        "thai": "khàp rót",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "don’t",
+        "thai": "yàa",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "dangerous, danger",
+        "thai": "an-dtà-raai",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "slim",
+        "thai": "phǎawm",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "short (height)",
+        "thai": "dtîia",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "few",
+        "thai": "náawy",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "smart",
+        "thai": "chà-làat",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "stupid",
+        "thai": "ngôo",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "true",
+        "thai": "thùuk",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "false",
+        "thai": "phìt",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "wide",
+        "thai": "gwâang",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "narrow",
+        "thai": "khâaep",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "rich",
+        "thai": "ruuai",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "poor",
+        "thai": "jon",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "demon",
+        "thai": "yák",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "chase",
+        "thai": "lâi",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "cut",
+        "thai": "dtàt",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "hair",
+        "thai": "phǒm",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "if",
+        "thai": "thâa",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "jacket",
+        "thai": "sûuea-jáek-gèt",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "air (weather)",
+        "thai": "aa-gàat",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "hand",
+        "thai": "muue",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "This trip is the most fun! So...tonight when James plays guitar, who is going to sing?",
+        "thai": "maa thîiao khráng níi sà-nùk thîi-sùt looei. ôoe...wâa dtàae khuuen níi dtaawn jeem lên gii-dtâa khrai jà ráawng phleeng já.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Can you sing, Apple?",
+        "thai": "bpôen ráawng phleeng dâai mǎi khráp. ",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I can sing, but Phueng can sing better.",
+        "thai": "ráawng dâai khâ. dtàae phûeng ráawng gèng gwàa.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Which singer do you like most?",
+        "thai": "bpôen châawp nák-ráawng khon nǎi thîi-sùt khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I like Bird the best. How about you?",
+        "thai": "châawp phîi bòoet thîi-sùt khâ. láaeo jeem lâ khá.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I like Sek Loso the best because he can play the guitar really well.",
+        "thai": "phǒm châawp sèk loo-soo mâak thîi-sùt khráp. phráw khǎo lên gii-dtâa gèng.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "James, what is the Colorado River like?",
+        "thai": "jeem mâae-náam khoo-loo-raa-dôo bpen yang-ngai rǒoe khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "It's wider and faster than the Pai River.",
+        "thai": "gwâang gwàa láe reo gwàa mâae-náam bpaai khráp. ",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "It's more scary too. Right?",
+        "thai": "nâa-gluua gwàa dûuai châi mǎi khá.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Yes. it isn't scary at all here.",
+        "thai": "châi khráp. thîi níi mâi nâa-gluua looei.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Hey! Look ahead!",
+        "thai": "hóoei...duu khâang-nâa nân sì ",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I'm taller than him",
+        "thai": "phǒm sǔung gwàa khǎo",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Elephants are bigger than rhinos",
+        "thai": "cháang yài gwàa râaet",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "He is the tallest person in the school",
+        "thai": "khǎo bpen khon thîi sǔung thîi-sùt nai roong-riian",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Nit's house is the farthest away out of all my friends",
+        "thai": "bâan khǎawng phîi nít yùu glai thîi-sùt nai phûuak phûuean khǎawng chǎn",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "The Nile River is the longest river in the world",
+        "thai": "mâae-náam nai bpen mâae-náam thîi yaao thîi-sùt nai lôok",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "What food do you like the most?",
+        "thai": "khun châawp aa-hǎan à-rai mâak thîi-sùt",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "rhino",
+        "thai": "râaet",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "beautiful sounding, melodious, polite",
+        "thai": "phráw",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "singer",
+        "thai": "nák-ráawng",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "to sing",
+        "thai": "ráawng phleeng",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "most",
+        "thai": "thîi-sùt",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "scary",
+        "thai": "nâa-gluua",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "earth, world",
+        "thai": "lôok",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "because",
+        "thai": "phráw",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "tonight",
+        "thai": "khuuen níi",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "trip",
+        "thai": "thîiao",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "time (this time, last time)",
+        "thai": "khráng",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Today was so much fun! But a little too wet.",
+        "thai": "wan-níi sà-nùk mâak looei khráp. dtàae bpìiak bpai nàwy.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "James, try tasting this chili sauce. It's delicious.",
+        "thai": "jeem, laawng chim nám-phrík níi sì. à-ràwy ná. ",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "How is it? Good? You want some more?",
+        "thai": "bpen yang-ngai. à-ràwy mǎi. ao ìik mǎi.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Uh, that's OK. It's too spicy.",
+        "thai": "òoe...mâi bpen rai khráp. man phèt gooen bpai.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Then eat fish? It's not spicy at all.",
+        "thai": "ngán gin bplaa mǎi. mâi phèt looei.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Sure. Eating fish probably will be better.",
+        "thai": "khráp. gin bplaa nâa jà dii gwàa. ",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I'm stuffed. I ate too much.",
+        "thai": "nâaen tháawng...gin yóe gooen bpai.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "That's what you get. eat too fast this way.",
+        "thai": "sǒm nám nâa. gin reo gooen bpai gâaw yàang níi làe.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "The weather is too hot today",
+        "thai": "wan-níi aa-gàat ráawn bpai",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I have way too many problems",
+        "thai": "phǒm mii bpan-hǎa yóe gooen-bpai",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Don't need to worry. You think too much",
+        "thai": "mâi dtâwng hùuang. khun khít mâak bpai",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "wet",
+        "thai": "bpìiak",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "likely, worthy",
+        "thai": "nâa",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "fish",
+        "thai": "bplaa",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "exceedingly, excessively",
+        "thai": "gooen-bpai",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "chili paste",
+        "thai": "nám-phrík",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "to taste",
+        "thai": "chim",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "stuffed belly",
+        "thai": "nâaen tháawng",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "think",
+        "thai": "khít",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "worry",
+        "thai": "hùuang",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "otherwise",
+        "thai": "ngán",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "this way",
+        "thai": "gâaw yàang níi",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Ugh, I'm bored. I don't want to study anymore.",
+        "thai": "óoi...bùuea. mâi yàak àan nǎng-sǔue láaeo.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Yeah, I feel so sleepy right now. I'm falling asleep now.",
+        "thai": "châi-châi...dtaawn níi ngûuang mâak-mâak looei. jà làp yùu láaeo.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Well then let's quit studying. Let's go sit at a cafe, talk together better",
+        "thai": "ngán lôoek àan gan thòe. bpai nâng ráan-gaa-faae khui gan dii gwàa.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Benz and James, what do you want to drink?",
+        "thai": "been jeem ao náam à-rai dii.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I'll have a hot latte.",
+        "thai": "phǒm ao laa-dtêe ráawn khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I'll have an iced coffee. But I'm hungry too. Um, can I get a piece of cake also?",
+        "thai": "phǒm ao gaa-faae yen khráp. dtàae wâa phǒm hǐu dûuai. uuem...khǎaw khéek dûuai nùeng chín dâai mǎi khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I'm so jealous of Apple. Last week she got another new mobile phone.",
+        "thai": "ìt-chǎa náawng bpôen mâak looei. aa-thít thîi láaeo khǎo thǎawy muue-thǔue khrûueang mài ìik láaeo.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Really? Which model?",
+        "thai": "jing rǒoe khráp. rûn nǎi khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "It's an iPhone. Really, not just bpôen. Iphone huh? Phueng, he has as well.",
+        "thai": "ai-foon nâ. ôoe...jing-jing láaeo mâi châi khâae náawng bpôen ná. ai-foon nîa? náawng phûeng, khǎo gâaw mii mǔuean gan.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Hey, speaking of Phueng. I think she likes you, James.",
+        "thai": "âaw...phûut thǔeng phûeng, rao khít wâa phûeng châawp jeem ná.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Huh? Really? I'm so happy.",
+        "thai": "hǎa...jing rǒoe khráp. dii-jai jang.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "What will you order?",
+        "thai": "jà sàng à-rai dee ká",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "to fall asleep",
+        "thai": "làp",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "cell phone",
+        "thai": "muue-thǔue",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "to quit, to cease",
+        "thai": "lôoek",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "jealous, envious",
+        "thai": "ìt-chǎa",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "sleepy",
+        "thai": "ngûuang",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "generation, design",
+        "thai": "rûn",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "confused",
+        "thai": "ngong",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "thirsty",
+        "thai": "hǐu-náam",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "angry",
+        "thai": "gròot or moo-hǒo",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "shy",
+        "thai": "aai",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "hungry for a meal",
+        "thai": "hǐu khâao",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "broken, spoiled",
+        "thai": "sǐia",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Just, only",
+        "thai": "khâae",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "got a new phone",
+        "thai": "thǎawy muue-thǔue khrûueang mài",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "machine",
+        "thai": "khrûueang",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "study",
+        "thai": "àan năng-sĕu",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "piece",
+        "thai": "chín",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Hey, Nune. I can trust you, right?",
+        "thai": "nûn, rao wái-jai nûn dâai châi mǎi.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Um, yes. What's up?",
+        "thai": "hǔuem...dâai sì. mii à-rai rǒoe jeem.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "It's just, I have something I want to ask you?",
+        "thai": "khuue rao mii rûueang yàak jà thǎam nûn nàwy nâ.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Go ahead and ask. You don't have to feel like you are imposing.",
+        "thai": "thǎam maa dâai looei. mâi dtâwng greeng-jai jâ.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "But can you promise with me? That you will not tell the topic that I ask you with anyone?",
+        "thai": "dtàae nûn sǎn-yaa gàp rao dâai mǎi wâa jà mâi bàawk rûueang thîi rao thǎam nûn gàp khrai.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Well, it's that...two days before, Benz told me that Phueng likes me. Is it true?",
+        "thai": "òoe...khuue..mûuea sǎawng wan gàawn been lâo hâi rao fang wâa phûeng châawp rao. jing rǔue bplàao nûn.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "It's true. She's interested in you. Um, why don't you try asking her out on a date unlike usual?",
+        "thai": "châi jâ...phûeng sǒn-jai jeem lâ. uuem...tham-mai jeem mâi laawng chuuan phûeng àawk bpai thîiao duu bâang lâ.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "You don't have to feel like you are imposing",
+        "thai": "mâi dtâwng greeng-jai jâ",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I was surprised when I saw the ghost",
+        "thai": "phǒm dtòk-jai mûuea hěn phǐi",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I was happy that I got to meet grandmother",
+        "thai": "dii-jai thîi dâai jooe khun yaai",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "to invite",
+        "thai": "chuuan",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "story, topic",
+        "thai": "rûueang",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "to trust",
+        "thai": "wái-jai",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "to promise",
+        "thai": "sǎn-yaa",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "to feel bad about imposing on others",
+        "thai": "greeng-jai",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "cruel (an evil heart)",
+        "thai": "jai-ráai",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "evil (a black heart)",
+        "thai": "jai-dam",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "proud",
+        "thai": "phuum-jai",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "short-tempered (a hot heart)",
+        "thai": "jai-ráawn",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "to be interested ",
+        "thai": "sǒn-jai",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "surprised",
+        "thai": "dtòk-jai",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "to have hurt feelings",
+        "thai": "jèp-jai",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "softer way to say can I/you",
+        "thai": "dâai châi mǎi",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "come across, visit",
+        "thai": "jooe",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "use at end of sentence for saying do something you don't usually do",
+        "thai": "duu bâang",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "go out, have a trip",
+        "thai": "àawk bpai thîiao",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Hello, Phueng. What are you doing now?",
+        "thai": "sà-wàt-dii khráp phûeng. dtaawn-níi phûeng tham à-rai yùu rǒoe khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I'm in the middle of watching TV. What's up?",
+        "thai": "gam-lang duu thii-wii yùu jâa. jeem mii à-rai rǒoe.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Are you free next Saturday?",
+        "thai": "wan-sǎo nâa phûeng wâang mǎi khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I'm free.",
+        "thai": "wâang jâ.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Go see a movie together? Now the movie \"Ghost Panda\" that you once said you wanted to see is playing.",
+        "thai": "bpai duu nǎng gan mǎi khráp. dtaawn-níi nǎng rûueang “phǐi phaaen-dâa” thîi phûeng khooei bàawk wâa yàak duu gam-lang chǎai yùu.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Really? Yes, I'll go.",
+        "thai": "jing rǒoe khá. bpai khâ bpai.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Then, meet together in front of Kad Suan Kaew at six o'clock pm good?",
+        "thai": "ngán jooe gan thîi nâa gàat-sǔuan-gâaeo dtaawn hòk moong-yen dii mǎi khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "That's good. See you then.",
+        "thai": "dii jâ. láaeo jooe gan ná já.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "OK. That's all. Bye.",
+        "thai": "khráp. ngán khâae níi ná khráp. sà-wàt-dii khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I'm eating a meal",
+        "thai": "phǒm gam-lang gin khâao",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I'm in the middle of eating a meal",
+        "thai": "phǒm gin khâao yùu",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I'm right in the middle of eating a meal",
+        "thai": "phǒm gam-lang gin khâao yùu",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "to play (movies), to show, to screen, to shine",
+        "thai": "chǎai",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "ghost, spirit",
+        "thai": "phǐi",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "free, vacant",
+        "thai": "wâang",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "\"Ghost Panda\" was so funny!",
+        "thai": "phǐi phaaen-dâa dtà-lòk mâak looei.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I'm glad that you liked it.",
+        "thai": "dii-jai jang thîi phûeng châawp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Oh, I didn't eat lunch. I'm so hungry now.",
+        "thai": "òoe...rao mâi dâai gin khâao-glaang-wan nâ jâ. dtaawn-níi hǐu mâak-mâak looei.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I'm hungry too. Well, lets go look for what to eat together, good?",
+        "thai": "phǒm gâaw hǐu mǔuean gan khráp. ngán rao bpai hǎa à-rai thaan gan dii mǎi khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "What are you going to do after you graduate, James?",
+        "thai": "jeem riian jòp láaeo jeem jà tham à-rai rǒoe.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I haven't decided yet. How about you?",
+        "thai": "phǒm yang mâi dâi dtàt-sǐn-jai looei khráp. láaeo phûeng lâ khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I want to be a flight attendant. But I haven't yet consulted with my parents at all. I don't know that they will allow me to or not.",
+        "thai": "rao yàak bpen aae-hóos-dtèet jâ. dtàae yang mâi dâi bprùek-sǎa phâaw mâae looei. mâi rúu wâa khǎo jà à-nú-yâat rǔue bplàao.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I can't go to Sukhothai",
+        "thai": "chǎn bpai sù-khǒo-thai mâi dâai",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I didn't go to Sukhothai",
+        "thai": "chǎn mâi dâi bpai sù-khǒo-thai",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I haven't gone to Sukhothai yet",
+        "thai": "chǎn yang mâi dâi bpai sù-khǒo-thai",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "to allow",
+        "thai": "à-nú-yâat",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "to look for",
+        "thai": "hǎa",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "lunch",
+        "thai": "khâao-glaang-wan",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "to decide",
+        "thai": "dtàt-sǐn-jai",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "to consult with",
+        "thai": "bprùek-sǎa",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "to finish",
+        "thai": "jòp",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "flight attendant",
+        "thai": "aae-hóos-dtèet",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Why is it that you want to be a flight attendant?",
+        "thai": "tham-mai phûeng thǔeng yàak bpen aae-hóos-dtèet rǒoe khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Because I would get to travel to foreign countries often.",
+        "thai": "phráw jà dâai dooen-thaang bpai dtàang-bprà-thêet bàwy-bàwy jâ.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "And which country do you most want to go to?",
+        "thai": "láaeo phûeng yàak bpai bprà-thêet à-rai mâak thîi-sùt khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Um...I want to go to Switzerland the most.",
+        "thai": "uuem...yàak bpai bprà-thêet sà-wíit-sooe-laaen mâak thîi-sùt jâ.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "How come?",
+        "thai": "phráw à-rai rǒoe khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Because I want to see snow. Since I was born, still never seen snow.",
+        "thai": "phráw phûeng yàak hěn hì-má jâ. dtâng dtàae gòoet maa yang mâi khooei hěn hì-má looei.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "There's a lot of snow in America. But I don't like it.",
+        "thai": "thîi à-mee-rí-gaa mii hì-má yóe mâak looei khráp. dtàae phǒm mâi châawp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Why don't you like it? The snow isn't beautiful?",
+        "thai": "tham-mai mâi châawp lâ khá. hì-má sǔuai mâi châi rǒoe khá.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "It's true that snow is beautiful, but I think it's too cold when it's snowing.",
+        "thai": "jing yùu khráp thîi wâa hì-má sǔuai. dtàae phǒm khít wâa man nǎao gooen bpai wee-laa hì-má dtòk.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Why are you going to go to Thailand?",
+        "thai": "khun jà bpai muueang-thai tham-mai",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Why do you need to go to Thailand?",
+        "thai": "tham-mai khun dtâwng bpai muueang-thai (When using a helping verb such as dtâwng then tham-mai comes at the beginning of the question)",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Why is it that you're going to go to Thailand?",
+        "thai": "tham-mai khun thǔeng jà bpai muueang-thai (Put together thmai thǔeng means \"Why has it become that...?\" If you also state the subject, then thǔeng goes after the subject)",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I'm very hungry because I didn't eat breakfast.",
+        "thai": "phǒm hǐu mâak phráw wâa mâi dâi gin aa-hǎan-cháao (We use phráw wâa to link separate clauses of a sentence where the second clause gives the reason for what happened in the first clause)",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "snow",
+        "thai": "hì-má",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "snowing",
+        "thai": "hì-má dtòk",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "often",
+        "thai": "bàwy-bàwy",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "foreign country",
+        "thai": "dtàang-bprà-thêet",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "breakfast",
+        "thai": "aa-hǎan-cháao",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "since",
+        "thai": "dtâng dtàae",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "was born",
+        "thai": "gòoet maa",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "James, I heard the news that the day before, you went on a date with Phueng. How was it? Tell me about it.",
+        "thai": "phîi jeem phîi jeem dâai khàao wâa mûuea wan gàawn phîi jeem bpai dèet gàp phîi-phûeng rǒoe. bpen yang-ngai bâang. lâo hâi fang nàwy sì.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Wait, finish eating dinner and I'll tell you. Now order food first. Waitress!",
+        "thai": "dǐiao thaan khâao sèt láaeo phîi lâo hâi fang ná. dtaawn-níi sàng aa-hǎan gàawn. náawng náawng.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "What will you have?",
+        "thai": "ráp à-rai dii khá.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I'll have french fries.",
+        "thai": "jíiap ao man-fà-ràng thâawt.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Here's your food.",
+        "thai": "aa-hǎan maa láaeo khâ.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Okay, let's eat!",
+        "thai": "âo...gin gan looei.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Mom, bring me the ketchup?",
+        "thai": "mâae mâae ao sáawt-má-khǔuea-thêet hâi nàwy.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Um, where is it?",
+        "thai": "hǔuem...yùu thîi-nǎi lûuk.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "It's on the table behind you.",
+        "thai": "yùu thîi dtó khâang-lǎng mâae nâ.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I'll have Pad Thai",
+        "thai": "ao phàt-thai khráp",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Bring the snacks for me to taste",
+        "thai": "ao khà-nǒm maa hâi phǒm chin nàwy",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I don't want it anymore",
+        "thai": "mâi ao láaeo",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "finished, complete, to finish",
+        "thai": "sèt",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "french fries",
+        "thai": "man-fà-ràng-thâawt",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "ketchup",
+        "thai": "sáawt-má-khǔuea-thêet",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "tomato",
+        "thai": "má-khǔuea-thêet",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "potato",
+        "thai": "man-fà-ràng",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "snacks",
+        "thai": "khà-nǒm",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "fried",
+        "thai": "thâawt",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "sauce",
+        "thai": "sáawt",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "date",
+        "thai": "dèet",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "hear the news",
+        "thai": "dâai khàao",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "how was it",
+        "thai": "bpen yang-ngai bâang",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "give (softer way to say)",
+        "thai": "maa hâi",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "have, receive",
+        "thai": "ráp",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "OK, everyone, for today, that's all. Today's homework for every student, write the letters \"daaw chá-daa\" to \"naaw neen.\" Write them beautifully, OK, everyone?",
+        "thai": "ao lâ thúk-khon sǎm-ràp wan-níi gâaw khâae níi. gaan-bâan khǎawng wan-níi hâi nák-riian thúk-khon khǐian dtuua àk-sǎawn “daaw-chá-daa” thǔeng “naaw-neen”. khǐian hâi sǔuai ná khá thúk-khon.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Know already.",
+        "thai": "sâap láaeo khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Hey, James and Yuki, tonight you free? Go sit and listen to music at the Riverside together?",
+        "thai": "nîi jeem yuu-gì khuuen níi wâang mǎi. bpai nâng fang phleeng thîi rii-wooe-sai gan mǎi.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I'm sorry, Rajeesh. I might not really be able to go too because today is a weekday, my mother won't let me go home late.",
+        "thai": "khǎaw-thôot jâ raa-jìit...rao khong bpai dûuai mâi dâai ràawk ná já phráw wâa wan-níi bpen wan-tham-má-daa khun-mâae khǎawng rao mâi hâi glàp bâan dùek.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Oh, that's OK, Yuki. What about you, James? Can you go?",
+        "thai": "âaw...mâi bpen rai jâ yuu-gì. láaeo jeem lâ bpai dâai mǎi.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I can go, but I have to stop and pick up some clothes for my mother at the laundry shop first.",
+        "thai": "rao bpai dâai. dtàae wâa dtâwng wáe-ráp sûuea-phâa hâi khun-mâae thîi ráan-sák-rîit gàawn.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Sure. No problem.",
+        "thai": "dâai sì khráp. mâi mii bpan-hǎa.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I gave snacks to Mother",
+        "thai": "phǒm hâi khà-nǒm gàp khun mâae",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Mother won't let me eat snacks",
+        "thai": "khun mâae mâi hâi phǒm gin khà-nǒm",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "The boss allowed the employees to go home early",
+        "thai": "naai hâi phá-nák-ngaan glàp bâan reo (put before a pronoun or noun, (hâi) means \"to allow\" or \"to let\")",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "John made everyone feel angry",
+        "thai": "khun jaawn tham hâi thúk khon rúu-sùek gròot",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Who bought snacks for you?",
+        "thai": "khrai súue khà-nǒm hâi khun",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Mom bought for me",
+        "thai": "mâae súue hâi",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "The teacher asked the student to say it another time",
+        "thai": "khun khruu hâi nák-riian phûut ìik khráng (Subject + hâi(make, ask, force) + Person + Verb)",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "The boss made the employees come in to work on a Sunday",
+        "thai": "naai hâi phá-nák-ngaan maa tham-ngaan nai wan-aa-thít (Subject + hâi(make, ask, force) + Person + Verb)",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "The students wrote the letters of the alphabet beautifully",
+        "thai": "nák-riian khǐian dtuua-àk-sǎawn hâi sǔuai (Verb + Object + hâi(until, so that) + Manner/Condition)",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Eat until it's gone",
+        "thai": "gin hâi mòt",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "for",
+        "thai": "sǎm-ràp",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "clothing",
+        "thai": "sûuea-phâa",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "stop by and pick up",
+        "thai": "wáe-ráp",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "late at night",
+        "thai": "dùek",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "to know (polite)",
+        "thai": "sâap",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "letter of the alphabet",
+        "thai": "dtuua-àk-sǎawn",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "homework",
+        "thai": "gaan-bâan",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "laundry shop",
+        "thai": "ráan-sák-rîit",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "boss",
+        "thai": "jaow-naai (or just naai)",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "employee",
+        "thai": "phá-nák-ngaan",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "to cause",
+        "thai": "tham-hâi",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "might, maybe",
+        "thai": "khong",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "weekday",
+        "thai": "wan-tham-má-daa",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Wow, there's a lot of people at the Riverside today. Are there going to be any free spaces?",
+        "thai": "ôo-hǒo...wan-níi rii-wooe-sai khon yóe ná. jà mii thîi-wâang mǎi nîa.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Should have. Just a minute. Let's try asking the waitress.",
+        "thai": "nâa jà mii ná. dǐiao laawng thǎam phá-nák-ngaan-sòoep duu.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Waitress! Is there room for two people?",
+        "thai": "náawng náawng. mii thîi-wâang sǎm-ràp sǎawng khon mǎi khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "There is. This way, please. What would you like to drink?",
+        "thai": "mii khâ. chooen thaang níi looei khâ. ráp khrûueang-dùuem à-rai dii khá.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "What beers do you all have?",
+        "thai": "mii biia a-rai bâang khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "We have Singha, Chang, and also Heineken.",
+        "thai": "mii biia sǐng biia cháang láaeo gâaw biia hai-nee-gên khâ.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Well then, we'll have one large bottle of Chang beer and two empty glasses.",
+        "thai": "ngán ao biia cháang khùuat yài nùeng khùuat gâaeo blàao sǎawng gâaeo khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "this place has a lot of tourists, aren't there, Rajeesh?",
+        "thai": "ráan níi mii nák-thâwng-thîiao yóe nóe raa-jìit.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Yep. It must be because this place has bands that play Western music.",
+        "thai": "châi khráp. nâa jà bpen phráw ráan níi mii wong-don-dtrii thîi lên phleeng fà-ràng.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Here's your beer.",
+        "thai": "biia maa láaeo khâ.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "That was a very funny show",
+        "thai": "nân bpen gaan-sà-daaeng thîi dtà-lòk mâak",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Are there going to be any more performances?",
+        "thai": "láaeo jà mii gaan-sà-daaeng ìik mǎi",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "This place has a lot of tourists",
+        "thai": "ráan níi mii nák-thâwng-thîiao yóe",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "There are four bottles of beer in the refrigerator",
+        "thai": "mii biia sìi khùuat nai dtùu-yen",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "free space",
+        "thai": "thîi-wâang",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "band (musicians)",
+        "thai": "wong-don-dtrii",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "traveler",
+        "thai": "nák-dooen-thaang",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "plain, empty, bare",
+        "thai": "bplàao",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "to answer",
+        "thai": "ráp",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "refrigerator",
+        "thai": "dtùu-yen",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "tourists",
+        "thai": "nák-thâwng-thîiao",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "performance",
+        "thai": "gaan-sà-daaeng",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "must/might be",
+        "thai": "nâa jà bpen",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "waiter/waitress",
+        "thai": "phá-nák-ngaan-sòoep",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "polite way to say come",
+        "thai": "chooen",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Wow! There's a lot of people here. Is today a special occasion, Nune?",
+        "thai": "oo-hôo..thîi níi khon yóe mâak looei. wan-níi bpen wan phí-sèt à-rai rǔue bplàao khráp nûn.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "It's not a special day at all, James. This is a \"walking street.\" There are people selling handicrafts. They have it every Sunday. A lot of people is normal like this.",
+        "thai": "mâi châi wan phí-sèt à-rai looei jeem. thîi-nîi bpen thà-nǒn khon dooen. mii khǎai khǎawng-tham-muue. mii thúk wan-aa-thít. khon jà yóe bpen bpòk-gà-dtì bàaep níi yùu láaeo.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Nune, look at that elephant picture. It's really beautiful.",
+        "thai": "nûn nûn...duu phâap cháang nân sì. sǔuai mâak looei.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Which picture, James? There are so many pictures of elephants.",
+        "thai": "phâap nǎi jeem. mii phâap cháang dtâng lǎai phâap.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "The picture with the purple elephant. That one.",
+        "thai": "phâap thîi mii cháang sǐi-mûuang nân ngai.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Hey, that really is beautiful too. But I like the picture with the pink elephant better.",
+        "thai": "ooe...sǔuai jing-jing dûuai. dtàae rao châawp phâap thîi mii cháang sǐi-chom-phuu mâak gwàa.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "The picture with the two elephants, a gold one and a silver one, is beautiful, huh, Nune?",
+        "thai": "phâap thîi mii cháang sǎawng dtuua sǐi-thaawng gàp sǐi-ngoen gâaw sǔuai ná nûn.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "it really is.",
+        "thai": "jing dûuai.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Excuse me. How much is that picture?",
+        "thai": "khǎaw-thôot khráp. phâap nán raa-khaa thâo-rài khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Five hundred baht.",
+        "thai": "hâa-ráawy bàat khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "It's not expensive either. I really want to be able to. But it's too big. I don't know how I will take it back home.",
+        "thai": "mâi phaaeng dûuai. yàak dâai jang. dtàae man yài bpai. mâi rúu jà ao glàp bâan yang-ngai.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Just take it in a red-car back homr. And then I can ride the motorcycle back home by myself.",
+        "thai": "gâaw ao khûen rót-daaeng glàp bâan ngai já. dǐiao rao khìi maaw-dtooe-sai glàp bâan khon-diiao dâai.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "special, extraordinary",
+        "thai": "phí-sèet",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "picture",
+        "thai": "phâap",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "ordinary, usual, normal",
+        "thai": "bpòk-gà-dtì",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "handcraft",
+        "thai": "khǎawng-tham-muue",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "alone",
+        "thai": "khon-diiao",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "color",
+        "thai": "sii",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "black",
+        "thai": "sǐi-dam",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "white",
+        "thai": "sǐi-khǎao",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "red",
+        "thai": "sǐi-daaeng",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "orange",
+        "thai": "sǐi-sôm",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "yellow",
+        "thai": "sǐi-lǔueang",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "green",
+        "thai": "sǐi-khǐiao",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "light blue,sky blue",
+        "thai": "sǐi-fáa",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "dark blue, navy blue",
+        "thai": "sǐi-nám-ngoen",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "purple",
+        "thai": "sǐi-mûuang",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "pink",
+        "thai": "sǐi-chom-phuu",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "brown",
+        "thai": "sǐi-nám-dtaan",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "gold",
+        "thai": "sǐi-thaawng",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "silver",
+        "thai": "sǐi-ngoen",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "gray",
+        "thai": "sǐi-thao",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "walking street",
+        "thai": "thà-nǒn khon dooen",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "road, street",
+        "thai": "thà-nǒn",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "as usual",
+        "thai": "bàaep níi yùu láaeo",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "so many kinds",
+        "thai": "dtâng lǎai phâap",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "that one",
+        "thai": "nân ngai",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "and then (later)",
+        "thai": "dǐiao",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "take into",
+        "thai": "ao khûen",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "That shirt is really pretty.",
+        "thai": "sûuea dtuua nán sǔuai jang looei.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Which one, Nune?",
+        "thai": "dtuua nǎi rǒoe nûn.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "The light blue one, James.",
+        "thai": "dtuua sǐi-fáa nâ jeem.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Try it on.",
+        "thai": "laawng sài duu sì khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Ah, it's too small. Oh, that's a really cute skirt! I'll try it on instead. Nice! It fits perfectly.",
+        "thai": "wáa...lék gooen bpai. ûi...grà-bproong dtuua nán nâa-rák mâak-mâak. laawng sǔuam duu dii gwàa. dii jang...phaaw-dii bpría looei.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Look at that hat, Nune. It's pretty cool.",
+        "thai": "duu mùuak bai nán sì nûn. thêe mâak looei. ",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Try it on, Mister. It's cheap.",
+        "thai": "laawng sǔuam duu sì khá khun. thùuk-thùuk khâ. ",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "How is it, Nune?",
+        "thai": "bpen yang-ngai khráp nûn.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Oh, it looks really good, James.",
+        "thai": "ôo-hǒo...duu dii mâak looei jeem.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "How much is it?",
+        "thai": "raa-khaa thâo-rài khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Very cheap. Each one (hat) is four hundred baht.",
+        "thai": "thùuk-thùuk khâ. bai lá sìi-ráawy bàat.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Huh? Four hundred baht is too expensive. Can you lower it?",
+        "thai": "hǎa...sìi-ráawy bàat phaaeng bpai. lót hâi nàwy dâai mǎi khráp.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Three hundred baht is the lowest price.",
+        "thai": "sǎam-ráawy bàat khàat-dtuua.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Ooh, that's too expensive still . I don't want it anymore. Let's just go home, Nune.",
+        "thai": "hǒoi...gâaw phaaeng bpai yùu dii. mâi ao láaeo dii gwàa. glàp bâan gan thòe nûn.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Wait wait! 150 baht, you want?",
+        "thai": "dǐiao khâ dǐiao. ráawy hâa-sìp bàat ao mǎi.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Yesterday, I bought three skirts and a pair of shoes",
+        "thai": "mûuea-waan-níi dì-chǎn súue grà-bproong sǎam dtuua láe raawng-tháao nùeng khûu",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I don't like the sky blue swimsuit. I like the pink one",
+        "thai": "mâi châawp chút-wâai-náam chút sǐi-fáa. châawp chút sǐi-chom-phuu.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "shirt",
+        "thai": "sûuea",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "to put on, to wear",
+        "thai": "sǔuam, sài",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "to reduce",
+        "thai": "lót",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "sweatshirt",
+        "thai": "sûuea-gan-nǎao",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "pants",
+        "thai": "gaang-geeng",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "underpants",
+        "thai": "gaang-geeng-nai",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "swimsuit",
+        "thai": "chút-wâai-náam",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "sock",
+        "thai": "thǔng-tháao",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "skirt",
+        "thai": "grà-bproong",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "suit",
+        "thai": "chút-sùut",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "school uniform",
+        "thai": "chút-nák-riian",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "helmet",
+        "thai": "mùuak-gan-náwk",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "classifier for pants, shirt, etc",
+        "thai": "dtuua",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "classifier for suit, uniform",
+        "thai": "chút",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "classifier for shoes, socks",
+        "thai": "khâang (one), khûu (pair)",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "classifier for hat, helmet",
+        "thai": "bai",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "exactly, fitly",
+        "thai": "bpría",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "cool",
+        "thai": "thêe",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "each",
+        "thai": "lá",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "meaning it's the lowest price they will go",
+        "thai": "khàat-dtuua",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "What's up, James?",
+        "thai": "wâa ngai jeem.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Nune, can you come pick me up at the soccer field?",
+        "thai": "nûn...maa ráp rao thîi sà-nǎam-fút-bawn nàwy dâai mǎi.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "What is it, James? Why do you sound like that? What happened?",
+        "thai": "bpen à-rai nâ jeem. tham-mai sǐiang thǔeng bpen yàang nán. gòoet à-rai khûen.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I was crashed into by a friend while playing soccer.",
+        "thai": "rao thùuk wîng chon duuai phûuean dtaawn lên fút-bawn nâ.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Is it very serious? Where all does it hurt?",
+        "thai": "láao bpen à-rai mâak rǔue bplàao jeem. jèp trong-nǎi bâang.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I hurt my arm and my foot. But my foot hurts so bad that I can't walk. I don't know whether I broke a bone or not.",
+        "thai": "jèp khǎaen gàp tháao. dtàae thîi tháao jèp mâak jon dooen mâi dâai. mâi rúu wâa grà-dùuk hàk rǔue bplàao.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Huh? Really? Then just wait right there. I'll hurry and come pick you up right now.",
+        "thai": "hǎa...jing rǒoe. ngán jeem raaw yùu thîi-nân ná. dǐiao rao jà rîip bpai ráp jeem dǐiao-níi looei jâ.",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I've got a really bad headache today",
+        "thai": "wan-níi phom bpùuat-hǔua mâak looei",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I'm sorry. I can't help carry the bags because my waist aches",
+        "thai": "khǎaw-thôot khráp. phǒm chûuai thǔue grà-bpǎo mâi dâai phráw bpùuat eeo",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "soccer field",
+        "thai": "sà-nǎam-fút-bawn",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "to hurry, quickly",
+        "thai": "rîip",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "to break, to split, broken",
+        "thai": "hàk",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "to hit, to collide",
+        "thai": "chon",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "to run",
+        "thai": "wîng",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "right now",
+        "thai": "dǐiao-níi",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "head",
+        "thai": "hǔua",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "eye",
+        "thai": "dtaa",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "ear",
+        "thai": "hǔu",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "mouth",
+        "thai": "bpàak",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "tooth, teeth",
+        "thai": "fan",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "nose",
+        "thai": "jà-mùuk",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "head hair",
+        "thai": "phǒm",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "body hair",
+        "thai": "khǒn",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "skin",
+        "thai": "phǐu",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "face",
+        "thai": "nâa",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "neck, throat",
+        "thai": "khaaw",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "arm",
+        "thai": "khǎaen",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "hand",
+        "thai": "muue",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "leg",
+        "thai": "khǎa",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "foot",
+        "thai": "tháao",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "finger, digit",
+        "thai": "níu",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "finger",
+        "thai": "níu-muue",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "toe",
+        "thai": "níu-tháao",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "stomach",
+        "thai": "tháawng",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "waist",
+        "thai": "eeo",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "back",
+        "thai": "lǎng",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "bone",
+        "thai": "grà-dùuk",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "blood",
+        "thai": "lûueat",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "muscle",
+        "thai": "núuea",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "acute, sharp pains",
+        "thai": "jèp",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "dull aches, long-term pain",
+        "thai": "bpùuat",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "sound",
+        "thai": "sǐiang",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "where exactly",
+        "thai": "trong-nǎi",
+        "filename": "",
+        "dateAdded": ""
+    }
+]

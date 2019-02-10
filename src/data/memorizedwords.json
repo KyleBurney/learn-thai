@@ -1021,7 +1021,7 @@
     },
     {
         "thai": "Khaaw mai phet maak",
-        "english": "Less spicy",
+        "english": "not that spicy",
         "filename": "lessSpicy.m4a",
         "dateAdded": "Sun Oct 21 2018"
     },
@@ -1089,12 +1089,6 @@
         "thai": "Khwaa",
         "english": "Right",
         "filename": "right.m4a",
-        "dateAdded": "Sun Oct 21 2018"
-    },
-    {
-        "thai": "A-nii khuue",
-        "english": "This is (longer way to say)",
-        "filename": "thisIsLong.m4a",
         "dateAdded": "Sun Oct 21 2018"
     },
     {
@@ -1314,12 +1308,6 @@
         "dateAdded": "Sun Oct 21 2018"
     },
     {
-        "thai": "A nii",
-        "english": "This is",
-        "filename": "thisIs.m4a",
-        "dateAdded": "Sun Oct 21 2018"
-    },
-    {
         "thai": "Dten",
         "english": "dance",
         "filename": "dance.m4a",
@@ -1336,12 +1324,6 @@
         "english": "Too (formal)",
         "filename": "",
         "dateAdded": "2018-10-31T02:03:03.996Z"
-    },
-    {
-        "thai": "phûuak-rao gâaw",
-        "english": "We are",
-        "filename": "",
-        "dateAdded": "2018-10-31T01:58:45.730Z"
     },
     {
         "thai": "láaeo khun lâ khráp?",

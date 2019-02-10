@@ -1,13 +1,13 @@
 [
     {
-        "english": "Why do you want to be a flight attendant?",
+        "english": "Why is it that you want to be a flight attendant?",
         "thai": "tham-mai phûeng thǔeng yàak bpen aae-hóos-dtèet rǒoe khráp.",
         "filename": "",
         "dateAdded": ""
     },
     {
         "english": "Because I would get to travel to foreign countries often.",
-        "thai": "phráw wâa jà dâai dooen-thaang bpai dtàang-bprà-thêet bàwy-bàwy jâ.",
+        "thai": "phráw jà dâai dooen-thaang bpai dtàang-bprà-thêet bàwy-bàwy jâ.",
         "filename": "",
         "dateAdded": ""
     },
@@ -30,8 +30,8 @@
         "dateAdded": ""
     },
     {
-        "english": "Because I want to see snow. In my whole life I've never seen snow.",
-        "thai": "phráw wâa phûeng yàak hěn hì-má jâ. dtâng dtàae gòoet maa yang mâi khooei hěn hì-má looei.",
+        "english": "Because I want to see snow. Since I was born, still never seen snow.",
+        "thai": "phráw phûeng yàak hěn hì-má jâ. dtâng dtàae gòoet maa yang mâi khooei hěn hì-má looei.",
         "filename": "",
         "dateAdded": ""
     },
@@ -42,7 +42,7 @@
         "dateAdded": ""
     },
     {
-        "english": "Why don't you like it? Isn't the snow beautiful?",
+        "english": "Why don't you like it? The snow isn't beautiful?",
         "thai": "tham-mai mâi châawp lâ khá. hì-má sǔuai mâi châi rǒoe khá.",
         "filename": "",
         "dateAdded": ""
@@ -54,8 +54,38 @@
         "dateAdded": ""
     },
     {
+        "english": "Why are you going to go to Thailand?",
+        "thai": "khun jà bpai muueang-thai tham-mai",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Why do you need to go to Thailand?",
+        "thai": "tham-mai khun dtâwng bpai muueang-thai (When using a helping verb such as dtâwng then tham-mai comes at the beginning of the question)",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "Why is it that you're going to go to Thailand?",
+        "thai": "tham-mai khun thǔeng jà bpai muueang-thai (Put together thmai thǔeng means \"Why has it become that...?\" If you also state the subject, then thǔeng goes after the subject)",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "I'm very hungry because I didn't eat breakfast.",
+        "thai": "phǒm hǐu mâak phráw wâa mâi dâi gin aa-hǎan-cháao (We use phráw wâa to link separate clauses of a sentence where the second clause gives the reason for what happened in the first clause)",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
         "english": "snow",
         "thai": "hì-má",
+        "filename": "",
+        "dateAdded": ""
+    },
+    {
+        "english": "snowing",
+        "thai": "hì-má dtòk",
         "filename": "",
         "dateAdded": ""
     },
@@ -72,32 +102,20 @@
         "dateAdded": ""
     },
     {
-        "english": "Why are you going to go to Thailand?",
-        "thai": "khun jà bpai muueang-thai tham-mai",
+        "english": "breakfast",
+        "thai": "aa-hǎan-cháao",
         "filename": "",
         "dateAdded": ""
     },
     {
-        "english": "Why do you need to go to Thailand?",
-        "thai": "tham-mai khun dtâwng bpai muueang-thai",
+        "english": "since",
+        "thai": "dtâng dtàae",
         "filename": "",
         "dateAdded": ""
     },
     {
-        "english": "Why is it that you're going to go to Thailand?",
-        "thai": "tham-mai khun thǔeng jà bpai muueang-thai",
-        "filename": "",
-        "dateAdded": ""
-    },
-    {
-        "english": "I'm very hungry because I didn't eat breakfast.",
-        "thai": "phǒm hǐu mâak phráw wâa mâi dâi gin aa-hǎan-cháao",
-        "filename": "",
-        "dateAdded": ""
-    },
-    {
-        "english": "Because I didn't eat breakfast",
-        "thai": "phráw mâi dâi gin aa-hǎan-cháao",
+        "english": "was born",
+        "thai": "gòoet maa",
         "filename": "",
         "dateAdded": ""
     }

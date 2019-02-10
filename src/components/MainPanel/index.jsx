@@ -28,6 +28,12 @@ import lesson16Words from '../../data/lesson16.json';
 import lesson17Words from '../../data/lesson17.json';
 import lesson18Words from '../../data/lesson18.json';
 import lesson19Words from '../../data/lesson19.json';
+import lesson20Words from '../../data/lesson20.json';
+import lesson21Words from '../../data/lesson21.json';
+import lesson22Words from '../../data/lesson22.json';
+import lesson23Words from '../../data/lesson23.json';
+import lesson24Words from '../../data/lesson24.json';
+import lesson25Words from '../../data/lesson25.json';
 
 const styles = theme => ({
   paper: {
@@ -101,6 +107,12 @@ class MainPanel extends Component {
         <Button color={this.state.cardsToShow === lesson17Words ? "secondary" : ""} onClick={() => { this.setState({ cardsToShow: lesson17Words, showAllCards: true }) }}>Lesson 17</Button>
         <Button color={this.state.cardsToShow === lesson18Words ? "secondary" : ""} onClick={() => { this.setState({ cardsToShow: lesson18Words, showAllCards: true }) }}>Lesson 18</Button>
         <Button color={this.state.cardsToShow === lesson19Words ? "secondary" : ""} onClick={() => { this.setState({ cardsToShow: lesson19Words, showAllCards: true }) }}>Lesson 19</Button>
+        <Button color={this.state.cardsToShow === lesson20Words ? "secondary" : ""} onClick={() => { this.setState({ cardsToShow: lesson20Words, showAllCards: true }) }}>Lesson 20</Button>
+        <Button color={this.state.cardsToShow === lesson21Words ? "secondary" : ""} onClick={() => { this.setState({ cardsToShow: lesson21Words, showAllCards: true }) }}>Lesson 21</Button>
+        <Button color={this.state.cardsToShow === lesson22Words ? "secondary" : ""} onClick={() => { this.setState({ cardsToShow: lesson22Words, showAllCards: true }) }}>Lesson 22</Button>
+        <Button color={this.state.cardsToShow === lesson23Words ? "secondary" : ""} onClick={() => { this.setState({ cardsToShow: lesson23Words, showAllCards: true }) }}>Lesson 23</Button>
+        <Button color={this.state.cardsToShow === lesson24Words ? "secondary" : ""} onClick={() => { this.setState({ cardsToShow: lesson24Words, showAllCards: true }) }}>Lesson 24</Button>
+        <Button color={this.state.cardsToShow === lesson25Words ? "secondary" : ""} onClick={() => { this.setState({ cardsToShow: lesson25Words, showAllCards: true }) }}>Lesson 25</Button>
         <Button onClick={() => { this.setState({ showAllCards: false }) }}>One card at a time</Button>
         <Button onClick={this.handleOpen}>Add a Card</Button>
         <Modal
