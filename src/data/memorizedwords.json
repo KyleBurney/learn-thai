@@ -229,7 +229,7 @@
     },
     {
         "thai": "Kao",
-        "english": "Old",
+        "english": "Old (thing)",
         "filename": "Old1540525815818.wav",
         "dateAdded": "2018-10-26T03:50:15.828Z"
     },
@@ -241,7 +241,7 @@
     },
     {
         "thai": "San",
-        "english": "Short",
+        "english": "Short (thing)",
         "filename": "Short1540525751025.wav",
         "dateAdded": "2018-10-26T03:49:11.030Z"
     },
@@ -1147,7 +1147,7 @@
     },
     {
         "thai": "Yen",
-        "english": "Cold",
+        "english": "(A little) Cold",
         "filename": "cold.m4a",
         "dateAdded": "Sun Oct 21 2018"
     },

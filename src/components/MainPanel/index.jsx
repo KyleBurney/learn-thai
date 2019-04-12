@@ -46,6 +46,7 @@ import lesson2_1Words from '../../data/lesson2/lesson1.json';
 import lesson2_2Words from '../../data/lesson2/lesson2.json';
 import lesson2_3Words from '../../data/lesson2/lesson3.json';
 import lesson2_4Words from '../../data/lesson2/lesson4.json';
+import lesson2_5Words from '../../data/lesson2/lesson5.json';
 
 const styles = theme => ({
   paper: {
@@ -61,9 +62,6 @@ const styles = theme => ({
   button: {
     display: 'block',
     marginTop: theme.spacing.unit * 2
-  },
-  selectedGroup: {
-    color: "red"
   },
   formControl: {
     margin: theme.spacing.unit,
@@ -142,8 +140,8 @@ class MainPanel extends Component {
                 id: 'card-group-general-select',
               }}
             >
-              <MenuItem value={newerWords}><span className={this.state.cardsToShow === newerWords ? classes.selectedGroup : ""}>New Words</span></MenuItem>
-              <MenuItem value={memorizedWords}><span className={this.state.cardsToShow === memorizedWords ? classes.selectedGroup : ""}>Memorized Words</span></MenuItem>
+              <MenuItem value={newerWords}>New Words</MenuItem>
+              <MenuItem value={memorizedWords}>Memorized Words</MenuItem>
             </Select>
           </FormControl>
           <FormControl className={classes.formControl}>
@@ -159,8 +157,8 @@ class MainPanel extends Component {
                 id: 'card-group-songs-select',
               }}
             >
-              <MenuItem value={song1Words}><span className={this.state.cardsToShow === song1Words ? classes.selectedGroup : ""}>Song 1 New Words</span></MenuItem>
-              <MenuItem value={song1fullWords}><span className={this.state.cardsToShow === song1fullWords ? classes.selectedGroup : ""}>Song 1 All Words</span></MenuItem>
+              <MenuItem value={song1Words}>Song 1 New Words</MenuItem>
+              <MenuItem value={song1fullWords}>Song 1 All Words</MenuItem>
             </Select>
           </FormControl>
           <FormControl className={classes.formControl}>
@@ -176,35 +174,36 @@ class MainPanel extends Component {
                 id: 'card-group-lessons-select',
               }}
             >
-              <MenuItem value={lesson1_1Words}><span className={this.state.cardsToShow === lesson1_1Words ? classes.selectedGroup : ""}>lesson 1.1 Words</span></MenuItem>
-              <MenuItem value={lesson1_2Words}><span className={this.state.cardsToShow === lesson1_2Words ? classes.selectedGroup : ""}>lesson 1.2 Words</span></MenuItem>
-              <MenuItem value={lesson1_3Words}><span className={this.state.cardsToShow === lesson1_3Words ? classes.selectedGroup : ""}>lesson 1.3 Words</span></MenuItem>
-              <MenuItem value={lesson1_4Words}><span className={this.state.cardsToShow === lesson1_4Words ? classes.selectedGroup : ""}>lesson 1.4 Words</span></MenuItem>
-              <MenuItem value={lesson1_5Words}><span className={this.state.cardsToShow === lesson1_5Words ? classes.selectedGroup : ""}>lesson 1.5 Words</span></MenuItem>
-              <MenuItem value={lesson1_6Words}><span className={this.state.cardsToShow === lesson1_6Words ? classes.selectedGroup : ""}>lesson 1.6 Words</span></MenuItem>
-              <MenuItem value={lesson1_7Words}><span className={this.state.cardsToShow === lesson1_7Words ? classes.selectedGroup : ""}>lesson 1.7 Words</span></MenuItem>
-              <MenuItem value={lesson1_8Words}><span className={this.state.cardsToShow === lesson1_8Words ? classes.selectedGroup : ""}>lesson 1.8 Words</span></MenuItem>
-              <MenuItem value={lesson1_9Words}><span className={this.state.cardsToShow === lesson1_9Words ? classes.selectedGroup : ""}>lesson 1.9 Words</span></MenuItem>
-              <MenuItem value={lesson1_10Words}><span className={this.state.cardsToShow === lesson1_10Words ? classes.selectedGroup : ""}>lesson 1.10 Words</span></MenuItem>
-              <MenuItem value={lesson1_11Words}><span className={this.state.cardsToShow === lesson1_11Words ? classes.selectedGroup : ""}>lesson 1.11 Words</span></MenuItem>
-              <MenuItem value={lesson1_12Words}><span className={this.state.cardsToShow === lesson1_12Words ? classes.selectedGroup : ""}>lesson 1.12 Words</span></MenuItem>
-              <MenuItem value={lesson1_13Words}><span className={this.state.cardsToShow === lesson1_13Words ? classes.selectedGroup : ""}>lesson 1.13 Words</span></MenuItem>
-              <MenuItem value={lesson1_14Words}><span className={this.state.cardsToShow === lesson1_14Words ? classes.selectedGroup : ""}>lesson 1.14 Words</span></MenuItem>
-              <MenuItem value={lesson1_15Words}><span className={this.state.cardsToShow === lesson1_15Words ? classes.selectedGroup : ""}>lesson 1.15 Words</span></MenuItem>
-              <MenuItem value={lesson1_16Words}><span className={this.state.cardsToShow === lesson1_16Words ? classes.selectedGroup : ""}>lesson 1.16 Words</span></MenuItem>
-              <MenuItem value={lesson1_17Words}><span className={this.state.cardsToShow === lesson1_17Words ? classes.selectedGroup : ""}>lesson 1.17 Words</span></MenuItem>
-              <MenuItem value={lesson1_18Words}><span className={this.state.cardsToShow === lesson1_18Words ? classes.selectedGroup : ""}>lesson 1.18 Words</span></MenuItem>
-              <MenuItem value={lesson1_19Words}><span className={this.state.cardsToShow === lesson1_19Words ? classes.selectedGroup : ""}>lesson 1.19 Words</span></MenuItem>
-              <MenuItem value={lesson1_20Words}><span className={this.state.cardsToShow === lesson1_20Words ? classes.selectedGroup : ""}>lesson 1.20 Words</span></MenuItem>
-              <MenuItem value={lesson1_21Words}><span className={this.state.cardsToShow === lesson1_21Words ? classes.selectedGroup : ""}>lesson 1.21 Words</span></MenuItem>
-              <MenuItem value={lesson1_22Words}><span className={this.state.cardsToShow === lesson1_22Words ? classes.selectedGroup : ""}>lesson 1.22 Words</span></MenuItem>
-              <MenuItem value={lesson1_23Words}><span className={this.state.cardsToShow === lesson1_23Words ? classes.selectedGroup : ""}>lesson 1.23 Words</span></MenuItem>
-              <MenuItem value={lesson1_24Words}><span className={this.state.cardsToShow === lesson1_24Words ? classes.selectedGroup : ""}>lesson 1.24 Words</span></MenuItem>
-              <MenuItem value={lesson1_25Words}><span className={this.state.cardsToShow === lesson1_25Words ? classes.selectedGroup : ""}>lesson 1.25 Words</span></MenuItem>
-              <MenuItem value={lesson2_1Words}><span className={this.state.cardsToShow === lesson2_1Words ? classes.selectedGroup : ""}>lesson 2.1 Words</span></MenuItem>
-              <MenuItem value={lesson2_2Words}><span className={this.state.cardsToShow === lesson2_2Words ? classes.selectedGroup : ""}>lesson 2.2 Words</span></MenuItem>
-              <MenuItem value={lesson2_3Words}><span className={this.state.cardsToShow === lesson2_3Words ? classes.selectedGroup : ""}>lesson 2.3 Words</span></MenuItem>
-              <MenuItem value={lesson2_4Words}><span className={this.state.cardsToShow === lesson2_4Words ? classes.selectedGroup : ""}>lesson 2.4 Words</span></MenuItem>
+              <MenuItem value={lesson1_1Words}>lesson 1.1 Words</MenuItem>
+              <MenuItem value={lesson1_2Words}>lesson 1.2 Words</MenuItem>
+              <MenuItem value={lesson1_3Words}>lesson 1.3 Words</MenuItem>
+              <MenuItem value={lesson1_4Words}>lesson 1.4 Words</MenuItem>
+              <MenuItem value={lesson1_5Words}>lesson 1.5 Words</MenuItem>
+              <MenuItem value={lesson1_6Words}>lesson 1.6 Words</MenuItem>
+              <MenuItem value={lesson1_7Words}>lesson 1.7 Words</MenuItem>
+              <MenuItem value={lesson1_8Words}>lesson 1.8 Words</MenuItem>
+              <MenuItem value={lesson1_9Words}>lesson 1.9 Words</MenuItem>
+              <MenuItem value={lesson1_10Words}>lesson 1.10 Words</MenuItem>
+              <MenuItem value={lesson1_11Words}>lesson 1.11 Words</MenuItem>
+              <MenuItem value={lesson1_12Words}>lesson 1.12 Words</MenuItem>
+              <MenuItem value={lesson1_13Words}>lesson 1.13 Words</MenuItem>
+              <MenuItem value={lesson1_14Words}>lesson 1.14 Words</MenuItem>
+              <MenuItem value={lesson1_15Words}>lesson 1.15 Words</MenuItem>
+              <MenuItem value={lesson1_16Words}>lesson 1.16 Words</MenuItem>
+              <MenuItem value={lesson1_17Words}>lesson 1.17 Words</MenuItem>
+              <MenuItem value={lesson1_18Words}>lesson 1.18 Words</MenuItem>
+              <MenuItem value={lesson1_19Words}>lesson 1.19 Words</MenuItem>
+              <MenuItem value={lesson1_20Words}>lesson 1.20 Words</MenuItem>
+              <MenuItem value={lesson1_21Words}>lesson 1.21 Words</MenuItem>
+              <MenuItem value={lesson1_22Words}>lesson 1.22 Words</MenuItem>
+              <MenuItem value={lesson1_23Words}>lesson 1.23 Words</MenuItem>
+              <MenuItem value={lesson1_24Words}>lesson 1.24 Words</MenuItem>
+              <MenuItem value={lesson1_25Words}>lesson 1.25 Words</MenuItem>
+              <MenuItem value={lesson2_1Words}>lesson 2.1 Words</MenuItem>
+              <MenuItem value={lesson2_2Words}>lesson 2.2 Words</MenuItem>
+              <MenuItem value={lesson2_3Words}>lesson 2.3 Words</MenuItem>
+              <MenuItem value={lesson2_4Words}>lesson 2.4 Words</MenuItem>
+              <MenuItem value={lesson2_5Words}>lesson 2.5 Words</MenuItem>
             </Select>
           </FormControl>
         </form>
